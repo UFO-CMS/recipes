@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "ufo-cms/json-rpc-bundle": [
+            "4.0"
+        ]
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/UFO-CMS/recipes",
+        "origin_template": "{package}:{version}@github.com/UFO-CMS/recipes:master",
+        "recipe_template": "https://api.github.com/repos/UFO-CMS/recipes/contents/{package_dotted}.{version}.json"
+    }
+}
