@@ -9,7 +9,7 @@
                     "  * UfoJsonRpcBundle is ready."
                 ],
                 "copy-from-package": {
-                    "install/": "config/"
+                    "install/": "%CONFIG_DIR%/"
                 },
                 "env": {
                     "UFO_API_TOKEN": "%generate(secret)%"
