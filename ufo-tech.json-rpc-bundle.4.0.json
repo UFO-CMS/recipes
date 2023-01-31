@@ -1,6 +1,6 @@
 {
     "manifests": {
-        "ufo-cms/json-rpc-bundle": {
+        "ufo-tech/json-rpc-bundle": {
             "manifest": {
                 "bundles": {
                     "Ufo\\JsonRpcBundle\\UfoJsonRpcBundle": ["all"]
@@ -16,7 +16,7 @@
                 }
             },
             "files": [],
-            "ref": "4b15918d47bf69303c38a504a187fdb0d112d16d"
+            "ref": "4b15918d47bf69303c38a504a187fdb0d112d16v"
         }
     }
 }
