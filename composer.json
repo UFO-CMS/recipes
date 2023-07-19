@@ -1,0 +1,18 @@
+{
+    "require": {
+        "symfony/filesystem": "^6.3",
+        "symfony/http-client": "^6.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "UfoTech\\Recipes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashterix",
+            "email": "ashterix69@gmail.com"
+        }
+    ]
+}

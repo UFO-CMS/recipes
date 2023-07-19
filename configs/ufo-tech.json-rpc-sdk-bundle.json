@@ -3,16 +3,17 @@
         "ufo-tech/json-rpc-bundle": {
             "manifest": {
                 "bundles": {
-                    "Ufo\\JsonRpcBundle\\UfoJsonRpcBundle": ["all"]
+                    "Ufo\\JsonRpcSdkBundle\\UfoJsonRpcSdkBundle": [
+                        "all"
+                    ]
                 },
                 "post-install-output": [
-                    "  * UfoJsonRpcBundle is ready."
+                    "  * UfoJsonRpcSdkBundle is ready."
                 ],
                 "copy-from-package": {
                     "install/": "%CONFIG_DIR%/"
                 },
                 "env": {
-                    "UFO_API_TOKEN": "%generate(secret)%"
                 }
             },
             "files": [],

@@ -1,6 +1,10 @@
 {
     "recipes": {
-        "ufo-tech/json-rpc-bundle": ["4.0"]
+        "ufo-tech/json-rpc-bundle": [
+            "5.0",
+            "4.5"
+        ],
+        "ufo-tech/json-rpc-sdk-bundle": []
     },
     "branch": "main",
     "is_contrib": true,
