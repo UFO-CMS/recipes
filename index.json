@@ -4,7 +4,9 @@
             "5.0",
             "4.5"
         ],
-        "ufo-tech/json-rpc-sdk-bundle": []
+        "ufo-tech/json-rpc-sdk-bundle": [
+            "1.0"
+        ]
     },
     "branch": "main",
     "is_contrib": true,
