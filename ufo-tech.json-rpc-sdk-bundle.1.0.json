@@ -1,9 +1,9 @@
 {
     "manifests": {
-        "ufo-tech/json-rpc-bundle": {
+        "ufo-tech/json-rpc-sdk-bundle": {
             "manifest": {
                 "bundles": {
-                    "Ufo\\JsonRpcSdkBundle\\UfoJsonRpcSdkBundle": [
+                    "Ufo\\JsonRpcSdkBundle\\JsonRpcSdkBundle": [
                         "all"
                     ]
                 },
