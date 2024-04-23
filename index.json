@@ -1,9 +1,13 @@
 {
     "recipes": {
-        "ufo-tech/json-rpc-bundle": [
-            "5.0",
-            "4.5"
+        "ufo-tech/doctrine-eav-bundle": [
+            "0.0"
         ],
+        "ufo-tech/json-rpc-bundle": {
+            "0": "5.1",
+            "3": "5.0",
+            "5": "4.5"
+        },
         "ufo-tech/json-rpc-sdk-bundle": [
             "1.1"
         ]
