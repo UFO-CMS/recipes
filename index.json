@@ -3,12 +3,16 @@
         "ufo-tech/doctrine-eav-bundle": [
             "0.0"
         ],
-        "ufo-tech/json-rpc-bundle": {
-            "0": "5.1",
-            "3": "5.0",
-            "5": "4.5"
-        },
+        "ufo-tech/json-rpc-bundle": [
+            "6.1",
+            "6.0",
+            "5.2",
+            "5.1",
+            "5.0",
+            "4.5"
+        ],
         "ufo-tech/json-rpc-sdk-bundle": [
+            "1.2",
             "1.1"
         ]
     },
