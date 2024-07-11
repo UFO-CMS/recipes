@@ -10,9 +10,6 @@
                 "post-install-output": [
                     "  * UfoJsonRpcBundle is ready."
                 ],
-                "post-update-cmd": [
-                    "Ufo\\JsonRpcBundle\\Command\\PostUpdateCommand::run"
-                ],
                 "copy-from-package": {
                     "install/": "%CONFIG_DIR%/"
                 },
